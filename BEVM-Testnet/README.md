@@ -21,7 +21,7 @@ Your VPS will reboot. Reaccess your VPS and continue with the next command.
 
 ### Run BEVM Testnet Node
 ```bash
-sudo apt-get update && curl -fsSL https://get.docker.com -o get-docker.sh && sudo sh get-docker.sh && wget https://raw.githubusercontent.com/eljaladz/bevm-nscrypto/main/bevm-testnet.sh && chmod +x bevm-testnet.sh && sudo ./bevm-testnet.sh
+sudo apt-get update && curl -fsSL https://get.docker.com -o get-docker.sh && sudo sh get-docker.sh && wget https://raw.githubusercontent.com/eljaladz/NodeEl/main/BEVM-Testnet/bevm-testnet.sh && chmod +x bevm-testnet.sh && sudo ./bevm-testnet.sh
 ```
 
 Your node is running!
