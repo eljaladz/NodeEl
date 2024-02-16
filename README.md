@@ -2,7 +2,7 @@
 ---
 ### Join our community!
 
-Telegram CHannel: https://t.me/nscryptoid \
+Telegram Channel: https://t.me/nscryptoid \
 Telegram Group: https://t.me/nscryptoidchat 
 
 ### Get our community products here!
@@ -13,7 +13,7 @@ e-Commerce: https://linktr.ee/peciNS
 ### Follow me!
 
 GitHub: https://github.com/eljaladz \
-X: https://x.com/ejldzz 
+X: https://x.com/ejldzz \
 Warpcast: https://warpcast.com/ejld
 
 ---
