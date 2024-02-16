@@ -13,11 +13,11 @@ BEVM Tesnet Node Installation Script by N.S Crypto Community
 ---
 
 ## Command Line
-### Setting up VPS
-```bash
-sudo apt-get update && sudo apt-get full-upgrade -y && sudo apt-get update && shutdown -r now
-```
-Your VPS will reboot. Reaccess your VPS and continue with the next command.
+### Set up your VPS
+   Need help? \
+   Check this out: https://github.com/eljaladz/NodeEl/tree/main/VPSFirst-timeSetup 
+   
+---
 
 ### Run BEVM Testnet Node
 ```bash
