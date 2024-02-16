@@ -9,7 +9,7 @@ sudo apt-get update && sudo apt-get full-upgrade -y && sudo apt-get update && sh
 If the restart confirmation prompt appears, check all the columns by pressing the space key and then press enter \
 `` Jika prompt konfirmasi restart muncul, ceklis semua kolom dengan menekan tombol spapsi dan lalu tekan tombol enter `` \
 Your VPS will reboot. Re-access your VPS and continue with the next task. \
-`` VPS akan reboot. Akses vps mu untuk melanjutkan ke tugas selanjutnya `` 
+`` VPS akan reboot. Akses kembali vps mu untuk melanjutkan ke tugas selanjutnya `` 
 
 ---
 
