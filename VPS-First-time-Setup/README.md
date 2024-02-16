@@ -8,8 +8,8 @@ sudo apt update && sudo apt upgrade -y && sudo apt update && shutdown -r now
 ```
 If the restart confirmation prompt appears, check all the columns by pressing the space key and then press enter \
 `` Jika prompt konfirmasi restart muncul, ceklis semua kolom dengan menekan tombol spapsi dan lalu tekan tombol enter `` \
-Your VPS will reboot. Re-access your VPS and continue with the next task. \
-`` VPS akan reboot. Akses kembali vps mu untuk melanjutkan ke tugas selanjutnya `` 
+Your VPS will be restarted. Wait a few minutes and then reconnect to your VPS to continue with the next task. \
+`` VPS Anda akan direstart Tunggu beberapa menit lalu sambungkan kembali ke VPS untuk melanjutkan tugas berikutnya. \ `` 
 
 ---
 
