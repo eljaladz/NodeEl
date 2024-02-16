@@ -66,7 +66,7 @@ rusk-wallet stake-info
 ```
 
 #### Checking node
-To see if your node is participating in consensus and creating blocks:
+To see if your node is participating in consensus and creating blocks: \
 `` Untuk melihat apakah node Anda berpartisipasi dalam konsensus dan membuat blok: ``
 
 ```bash
@@ -76,11 +76,19 @@ tail -F /var/log/rusk.log | grep "execute_state_transition"
 > Note that this can take a while, given that your stake needs at least 2 epochs, or 4320 blocks, to mature. Your stake, relative to the total stake, also plays a factor. \
 > `` Perhatikan bahwa ini bisa memakan waktu cukup lama, mengingat staking mu memerlukan setidaknya 2 epoch, atau 4320 blok, untuk matang. Staking mu, relatif terhadap total stake, juga berperan. `` 
 
-If everything went right, and your node starts accepting and creating blocks, you have succesfully set up your ITN node!
+> Additional information. \
+> Q: Why when I use the command tail -F /var/log/rusk.log | grep "execute_state_transition" not getting results/output?\
+> A: If you have only 1000 dusk staked, statistically you should take part in block production every 2-4 days atm. "\
+> `` T: Mengapa saat menggunakan command ``` tail -F /var/log/rusk.log | grep "execute_state_transition" ``` tidak mengeluarkan hasil/output? ``\
+> `` J: Jika Anda hanya memiliki 1000 tDUSK yang stake, secara statistik Anda seharusnya mendapat bagian dalam produksi blok setiap 2-4 hari pada saat ini. ``\
+> 🕞 3:30 PM UTC 📆 Feb, 16 2024\
+> Source: https://discord.com/channels/847466263064346624/1207982066017509446/1208072887202881576
+
+If everything went right, and your node starts accepting and creating blocks, you have succesfully set up your ITN node!\
 `` Jika semuanya berjalan baik, dan node mu mulai menerima dan membuat blok, Anda telah berhasil menyiapkan node ITN mu! ``
 
 ---
 
 ### Wanna Contribute?
-Feel free to submit issues and suggest improvements! \
+Feel free to submit issues and suggest improvements!\
 `` Ingin berkontribusi? Jangan ragu untuk mengirimkan masalah dan menyarankan perbaikan! ``
