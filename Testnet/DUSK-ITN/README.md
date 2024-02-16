@@ -77,7 +77,7 @@ tail -F /var/log/rusk.log | grep "execute_state_transition"
 > `` Perhatikan bahwa ini bisa memakan waktu cukup lama, mengingat staking mu memerlukan setidaknya 2 epoch, atau 4320 blok, untuk matang. Staking mu, relatif terhadap total stake, juga berperan. `` 
 
 > Additional information. \
-> Q: Why when I use the command tail -F /var/log/rusk.log | grep "execute_state_transition" not getting results/output?\
+> Q: Why when I use the command ```tail -F /var/log/rusk.log | grep "execute_state_transition"``` not getting results/output?\
 > A: If you have only 1000 dusk staked, statistically you should take part in block production every 2-4 days atm. "\
 > `` T: Mengapa saat menggunakan command ``` tail -F /var/log/rusk.log | grep "execute_state_transition" ``` tidak mengeluarkan hasil/output? ``\
 > `` J: Jika Anda hanya memiliki 1000 tDUSK yang stake, secara statistik Anda seharusnya mendapat bagian dalam produksi blok setiap 2-4 hari pada saat ini. ``\
