@@ -9,12 +9,13 @@ BEVM Tesnet Node Installation Script by N.S Crypto Community
 ## Follow me
    GitHub: https://github.com/eljaladz <br>
    X: https://x.com/ejldzz <br>
+   Wrapcast: https://wrapcast.com/ejld
    
 ---
 
 ## Command Line
 ### Set up your VPS
-   Need help? \
+   Need help setting up your VPS? \
    Check this out: https://github.com/eljaladz/NodeEl/tree/main/VPSFirst-timeSetup 
    
 ---
