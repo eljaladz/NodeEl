@@ -58,12 +58,19 @@ echo "'$stkAmt' tDUSK staked!"
 
 sleep 3 #Jeda waktu
 
+#Mendapatkan informasi staking
 echo "Getting your staking information.."
 rusk-wallet stake-info
 
 echo "Done!"
 
+sleep 3 #Jeda waktu
 
+echo "To see if your node is participating in consensus and creating blocks, use command below:"
+echo " tail -F /var/log/rusk.log | grep "execute_state_transition""
+echo "FYI, that this can take a while, given that your stake needs at least 2 epochs, or 4320 blocks, to mature. Your stake, relative to the total stake, also plays a factor. "
 
+sleep 1 #Jeda waktu
 
-tail -F /var/log/rusk.log | grep "execute_state_transition"
+echo "Join us at https://t.me/nscryptoid"
+echo "Follow me on X https://x.com/ejldzz"
