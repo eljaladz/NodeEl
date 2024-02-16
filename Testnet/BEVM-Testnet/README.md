@@ -21,7 +21,7 @@ BEVM Tesnet Node Installation Script by N.S Crypto Community
 
 ### Run BEVM Testnet Node
 ```bash
-sudo apt-get update && curl -fsSL https://get.docker.com -o get-docker.sh && sudo sh get-docker.sh && wget https://raw.githubusercontent.com/eljaladz/NodeEl/main/BEVM-Testnet/bevm-testnet.sh && chmod +x bevm-testnet.sh && sudo ./bevm-testnet.sh
+sudo apt-get update && curl -fsSL https://get.docker.com -o get-docker.sh && sudo sh get-docker.sh && wget https://raw.githubusercontent.com/eljaladz/NodeEl/main/Testnet/BEVM-Testnet/bevm-testnet.sh && chmod +x bevm-testnet.sh && sudo ./bevm-testnet.sh
 ```
 
 Your node is running!
