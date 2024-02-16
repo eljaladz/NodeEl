@@ -1,4 +1,19 @@
 # DUSK ITN (Incentivized Testnet)
+
+DUSK ITN Node Installation Script by N.S Crypto Community 
+
+## Join Our Community
+   Telegram Channel: https://t.me/nscryptoid <br>
+   Telegram Group: https://t.me/nscryptoidchat <br>
+   Get our product here > https://linktr.ee/peciNS `` Peci Songkok Custom Indonesia ``
+   
+## Follow me
+   GitHub: https://github.com/eljaladz <br>
+   X: https://x.com/ejldzz <br>
+   Warpcast: https://warpcast.com/ejld
+   
+---
+
 ## Node Requirements
 ### Software
 Using a stable operating system with long-term support, such as Ubuntu 22.04 or Debian Bookworm, is recommended. \
@@ -20,7 +35,9 @@ For the node to be accessible to the outside world, a number of ports need to be
   * 9000/udp: Required for Kadcast consensus messages.<br>
   * 8080/tcp: Optional HTTPS API for querying the node.<br>
 
-Source: https://docs.dusk.network/itn/node-running-guide
+> Source:
+> * https://docs.dusk.network/itn/node-running-guide \
+> * https://dusk.network/news/ITN-set-up/
 
 ---
 
@@ -55,3 +72,15 @@ To see if your node is participating in consensus and creating blocks:
 ```bash
 tail -F /var/log/rusk.log | grep "execute_state_transition"
 ```
+
+> Note that this can take a while, given that your stake needs at least 2 epochs, or 4320 blocks, to mature. Your stake, relative to the total stake, also plays a factor. \
+> `` Perhatikan bahwa ini bisa memakan waktu cukup lama, mengingat staking mu memerlukan setidaknya 2 epoch, atau 4320 blok, untuk matang. Staking mu, relatif terhadap total stake, juga berperan. `` 
+
+If everything went right, and your node starts accepting and creating blocks, you have succesfully set up your ITN node!
+`` Jika semuanya berjalan baik, dan node mu mulai menerima dan membuat blok, Anda telah berhasil menyiapkan node ITN mu! ``
+
+---
+
+### Wanna Contribute?
+Feel free to submit issues and suggest improvements! \
+`` Ingin berkontribusi? Jangan ragu untuk mengirimkan masalah dan menyarankan perbaikan! ``
