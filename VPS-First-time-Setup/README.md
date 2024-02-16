@@ -1,4 +1,4 @@
-# Setting up a VPS for the first time
+# Setting up a VPS for the first time (BASIC)
 ``Menyiapkan sebuah VPS baru``
 ---
 ## Copy the command below to update and upgrade packages on your VPS
