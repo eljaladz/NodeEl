@@ -1,6 +1,6 @@
 # Node Guides by N.S Crypto Community
 ---
-### Join Our Community!
+### Join our community!
 
 Telegram CHannel: https://t.me/nscryptoid \
 Telegram Group: https://t.me/nscryptoidchat 
