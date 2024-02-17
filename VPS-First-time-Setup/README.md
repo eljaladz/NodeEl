@@ -4,7 +4,7 @@
 ## Copy the command below to update and upgrade packages on your VPS
 `` Salin command di bawah ini untuk mengupdate dan mengupgrade package di VPS-mu ``
 ```bash
-sudo apt update && sudo apt upgrade -y && sudo apt update && shutdown -r now
+sudo apt update && sudo apt upgrade -y && sudo apt update && sudo ufw allow ssh && ufw allow 22 && shutdown -r now
 ```
 If the restart confirmation prompt appears, check all the columns by pressing the space key and then press enter \
 `` Jika prompt konfirmasi restart muncul, ceklis semua kolom dengan menekan tombol spapsi dan lalu tekan tombol enter `` \
