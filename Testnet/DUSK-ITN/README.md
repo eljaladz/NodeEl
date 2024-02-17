@@ -45,7 +45,7 @@ For the node to be accessible to the outside world, a number of ports need to be
 ### Set up your VPS
    Need help setting up your VPS? \
    `` Butuh bantuan untuk menyiapkan VPS? `` \
-   Check this out: https://github.com/eljaladz/NodeEl/tree/main/VPSFirst-timeSetup 
+   Check this out: https://github.com/eljaladz/NodeEl/tree/main/VPS-First-time-Setup 
    
 ### Run DUSK Node (Provisioner)
 Copy the command below once the VPS is ready \
