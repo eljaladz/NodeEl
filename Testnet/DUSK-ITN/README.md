@@ -65,6 +65,13 @@ You can view your staking information by running: \
 rusk-wallet stake-info
 ```
 
+#### Stake additional $tDUSK
+You can make additional stakes by using this command(for example with 1000 tDUSK): \
+`` Anda dapat melakukan stake tambahan dengan menggunakan command ini(sebagai contohnya dengan 1000 tDUSK): ``
+```bash
+rusk-wallet stake --amt 1000
+```
+
 #### Checking node
 To see if your node is participating in consensus and creating blocks: \
 `` Untuk melihat apakah node Anda berpartisipasi dalam konsensus dan membuat blok: ``
