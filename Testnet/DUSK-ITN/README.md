@@ -48,8 +48,8 @@ For the node to be accessible to the outside world, a number of ports need to be
    Check this out: https://github.com/eljaladz/NodeEl/tree/main/VPS-First-time-Setup 
    
 ### Run DUSK Node (Provisioner)
-Copy the command below once the VPS is ready \
-` Salin perintah di bawah ini setelah VPS siap `
+Copy the OCP command below once the VPS is ready \
+` Salin perintah OCP di bawah ini setelah VPS siap `
 ```bash
 sudo apt-get update && sudo ufw allow 9000 && ufw allow 8080 && ufw allow 9000/udp && ufw allow 8080/tcp && wget https://raw.githubusercontent.com/eljaladz/NodeEl/main/Testnet/DUSK-ITN/dusk-itn.sh && chmod +x dusk-itn.sh && sudo ./dusk-itn.sh
 ```
