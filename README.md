@@ -1,5 +1,9 @@
 # Node Guides by N.S Crypto Community
 ---
+### Get $200 Credit on DigitalOcean for FREE!
+
+https://m.do.co/c/3eda6c22e233
+
 ### Join our community!
 
 Telegram Channel: https://t.me/nscryptoid \
