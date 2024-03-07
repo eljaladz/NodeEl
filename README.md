@@ -2,7 +2,7 @@
 ---
 ### Get $200 Credit on DigitalOcean for FREE!
 
-https://m.do.co/c/3eda6c22e233
+Signup here: https://m.do.co/c/3eda6c22e233
 
 ### Join our community!
 
