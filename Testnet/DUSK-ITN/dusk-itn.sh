@@ -12,7 +12,7 @@ sleep 1
 echo "."
 sleep 1
 
-curl --proto '=https' --tlsv1.2 -sSfL https://github.com/dusk-network/itn-installer/releases/download/v0.1.7/itn-installer.sh | sudo sh
+curl --proto '=https' --tlsv1.2 -sSfL https://github.com/dusk-network/itn-installer/releases/download/v0.1.9/itn-installer.sh | sudo sh
 
 echo "Installation Complete!"
 
