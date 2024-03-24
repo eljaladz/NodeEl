@@ -1,15 +1,23 @@
 # Setting up a VPS (Ubuntu Server) for the first time (BASIC)
 #### ``Menyiapkan sebuah VPS (Ubuntu Server) baru``
 ---
-## Copy the command below to update and upgrade packages on your VPS
-`` Salin command di bawah ini untuk mengupdate dan mengupgrade package di VPS-mu ``
+## ``root`` Password Setup 
+``Menyetel Password "root"``
+```bash
+sudo passwd
+```
+> Input your password. \
+> ``Masukkan passwordmu``
+
+## Update and upgrade packages on your VPS
+`` Meng-update dan meng-upgrade package di VPS-mu ``
 ```bash
 sudo apt update && sudo apt upgrade -y && sudo apt update && shutdown -r now
 ```
-If the restart confirmation prompt appears, check all the columns by pressing the space key and then press enter \
-`` Jika prompt konfirmasi restart muncul, ceklis semua kolom dengan menekan tombol spapsi dan lalu tekan tombol enter `` \
-Your VPS will be restarted. Wait a few minutes and then reconnect to your VPS to continue. \
-`` VPS Anda akan direstart Tunggu beberapa menit lalu akses kembali VPSmu untuk melanjutkan.`` 
+> If the restart confirmation prompt appears, check all the columns by pressing the space key and then press enter \
+> `` Jika prompt konfirmasi restart muncul, ceklis semua kolom dengan menekan tombol spapsi dan lalu tekan tombol enter `` \
+> Your VPS will be restarted. Wait a few minutes and then reconnect to your VPS to continue. \
+> `` VPS-mu akan direstart Tunggu beberapa menit lalu akses kembali VPS-mu untuk melanjutkan.`` 
 
 ---
 ## Useful Command
