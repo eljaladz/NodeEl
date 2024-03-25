@@ -15,7 +15,7 @@ sudo passwd
 sudo apt update && sudo apt upgrade -y && sudo apt update && shutdown -r now
 ```
 > If the restart confirmation prompt appears, check all the columns by pressing the space key and then press enter \
-> `` Jika prompt konfirmasi restart muncul, ceklis semua kolom dengan menekan tombol spapsi dan lalu tekan tombol enter `` \
+> `` Jika prompt konfirmasi restart muncul, ceklis semua kolom dengan menekan tombol spasi, lalu tekan tombol enter `` \
 > Your VPS will be restarted. Wait a few minutes and then reconnect to your VPS to continue. \
 > `` VPS-mu akan direstart Tunggu beberapa menit lalu akses kembali VPS-mu untuk melanjutkan.`` 
 
